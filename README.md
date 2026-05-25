@@ -110,7 +110,7 @@ This project strengthened practical understanding of diode-based logic gate impl
 
 **Maira Adil**
 
-Computer Science Student
+Artificial Intelligence Student
 
 ---
 
